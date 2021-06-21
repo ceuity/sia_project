@@ -1,0 +1,7 @@
+flask
+gunicorn
+pillow
+numpy
+segmentation_models
+opencv-python
+albumentations
