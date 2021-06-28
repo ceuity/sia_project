@@ -2,7 +2,7 @@
 
 ## Project : 인공위성 영상에서 건물 탐지 및 도로 추출하기 
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/ceuity/sia_project)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://main-sia-project-ceuity.endpoint.ainize.ai/)
 
 ## Team : SSAC SIA2 
 
